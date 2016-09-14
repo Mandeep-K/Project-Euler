@@ -1,1 +1,0 @@
-Hello Git World - I'm a newbie.
