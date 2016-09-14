@@ -1,4 +1,4 @@
-public class primeNum{
+public class ProjectEuler3{
 public static void main(String[] args){
     long x=600851475143L;
     long biggest=0L;
